@@ -6,5 +6,4 @@
 | day2 read | [click here](./day2read.md) |
 | day3 read | [click here](./day3read.md) |
 | HTML BOOK | [click here](./HTMLBOOKsummary.md) |
-
-thats on you abdallah :P
+| Read:04-ProgrammingwithJavaScript | [click here](./Read:04-ProgrammingwithJavaScript.md) |

@@ -24,3 +24,16 @@ opining tag can carry attribute name `class` and its value `fruit` the value alw
 		*comparison operators as like  ` buy= 3>2;`
 *logical operators as like ` buy=(5>3)%%(2<4);`
 *string operators as like ` greeting='hi'+'moly';
+
+## ARITHMETIC OPERATORS
+` () * / - + ^ `
+The order for the operators
+
+Does Pemdas Equal :-
+
+P: Parentheses 
+E: Exponents 
+M: Multiplication  (from left to right) 
+D: Division   (from left to right)
+A: Addition  (from left to right)
+S: Subtraction  (from left to right)

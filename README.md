@@ -7,4 +7,5 @@
 | day3 read | [click here](./day3read.md) |
 | HTML BOOK | [click here](./HTMLBOOKsummary.md) |
 | Read:04-ProgrammingwithJavaScript | [click here](./Read:04-ProgrammingwithJavaScript.md) |
-| day3 read | [click here](./day3read.md) |
+| Read: 05-Operators and Loops| [click here](./Read:05-OperatorsandLoops.md) |
+

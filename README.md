@@ -4,8 +4,7 @@
 
 | days | reads |
 | ---- | ---- |
-
-| Read:01-Introductory HTML and JavaScript | [click here]() |
+| Read:01-Introductory.HTML.and.JavaScript | [click here]() |
 
 | Read:02-HTMLText,CSSIntroduction,andBasicJavaScriptInstructions | [click here]() |
 | Read: 03 - HTML Lists, CSS Boxes, JS Control Flow | [click here]() |

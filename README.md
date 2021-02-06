@@ -1,12 +1,13 @@
 # Mosab al omari
 
 # code 201
+
 | days | reads |
 | ---- | ---- |
 
-| Read: 01 - Introductory HTML and JavaScript | [click here]() |
+| Read:01-Introductory HTML and JavaScript | [click here]() |
 
-| Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions | [click here]() |
+| Read:02-HTMLText,CSSIntroduction,andBasicJavaScriptInstructions | [click here]() |
 | Read: 03 - HTML Lists, CSS Boxes, JS Control Flow | [click here]() |
 | Read: 04 - HTML Links, CSS Layout, JS Functions | [click here]() |
 | Read: 05 - HTML Images; CSS Color & Text | [click here]() |

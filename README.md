@@ -3,7 +3,9 @@
 # code 201
 | days | reads |
 | ---- | ---- |
+
 | Read: 01 - Introductory HTML and JavaScript | [click here]() |
+
 | Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions | [click here]() |
 | Read: 03 - HTML Lists, CSS Boxes, JS Control Flow | [click here]() |
 | Read: 04 - HTML Links, CSS Layout, JS Functions | [click here]() |
@@ -18,19 +20,6 @@
 | Read: 13 - Local Storage | [click here](./day1read.md) |
 | Read: 14a - CSS Transforms, Transitions, and Animations | [click here]() |
 | Read: 14b - What Google Learned About Teams | [click here]() |
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

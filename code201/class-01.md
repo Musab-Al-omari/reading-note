@@ -1,5 +1,6 @@
 ## HTML Chapter 1: “Structure” 
-    This is the  Typical formula for html code  
+    This is the  Typical formula for html code 
+
 ```
 <html>
   <body>
@@ -23,9 +24,12 @@
  
  </html>
 ```
+
 what ever in `<>` its called tag 
 Tags act like containers. They tell you something about the information that lies between their opening such as  `<p>` and closing tags such as `</p>` .
+
 ### Attributes 
+
 ` <p lang="en-us">Paragraph in English</p> ` 
 Attributes provide additional information about the contents of an element. They appear
 on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign.

@@ -4,7 +4,7 @@
 
 | days | reads |
 | ---- | ---- |
-| Read: 01 -Introductory HTML and JavaScript | [click here]() |
+| Read: 01 -Introductory HTML and JavaScript | [class-01.md](code201/class-01.md) |
 | Read: 02 -HTML Text CSS Introduction and Basic JavaScript Instructions | [click here]() |
 | Read: 03 -HTML Lists CSS Boxes JS Control.Flow | [click here]() |
 | Read: 04 - HTML Links, CSS Layout, JS Functions | [click here]() |

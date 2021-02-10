@@ -4,11 +4,11 @@
 
 | days | reads |
 | ---- | ---- |
-| Read: 01 -Introductory HTML and JavaScript | [class-01.md](code201/class-01.md) |
+| Read: 01 -Introductory HTML and JavaScript | [click here](code201/class-01.md) |
 | Read: 02 -HTML Text CSS Introduction and Basic JavaScript Instructions | [click here](code201/class-02.md) |
 | Read: 03 -HTML Lists CSS Boxes JS Control.Flow | [click here](code201/class-03.md) |
 | Read: 04 - HTML Links, CSS Layout, JS Functions | [click here](code201/class-04.md) |
-| Read: 05 - HTML Images; CSS Color & Text | [click here]() |
+| Read: 05 - HTML Images; CSS Color & Text | [click here](code201/class-05.md) |
 | Read: 06 - JS Object Literals; The DOM| [click here]() |
 | Read: 07 - HTML Tables; JS Constructor Functions | [click here]() |
 | Read: 08 - More CSS Layout | [click here]() |

@@ -9,7 +9,7 @@
 | Read: 03 -HTML Lists CSS Boxes JS Control.Flow | [click here](code201/class-03.md) |
 | Read: 04 - HTML Links, CSS Layout, JS Functions | [click here](code201/class-04.md) |
 | Read: 05 - HTML Images; CSS Color & Text | [click here](code201/class-05.md) |
-| Read: 06 - JS Object Literals; The DOM| [click here]() |
+| Read: 06 - JS Object Literals; The DOM| [click here](code201/class-06.md) |
 | Read: 07 - HTML Tables; JS Constructor Functions | [click here]() |
 | Read: 08 - More CSS Layout | [click here]() |
 | Read: 09 - Forms and Events | [click here]() |

@@ -45,4 +45,4 @@ of activity:
 In the interpreter, each execution context has its own va ri ables object.
 It holds the variables, functions, and parameters available within it.
 Each execution context can also access its parent's v a ri ables object.
-
+cd

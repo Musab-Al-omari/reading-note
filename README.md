@@ -1,6 +1,26 @@
-# Mosab al omari
+# Reading Notes
 
-# code 201
+
+
+# Code 301 - Intermediate Software Development
+
+| days | reads |
+| ---- | ---- |
+| Read: 01 - SMACSS and Responsive Web Design | [click here]() |
+| Read: 02 - jQuery, Events, and The DOM | [click here]() |
+| Read: 03 - Flexbox and Templating | [click here]() |
+| Read: 04 - Responsive Web Design and Regular Expressions | [click here]() |
+| Read: 05 - Heroku Deployment | [click here]() |
+| Read: 06 - Node, Express, and APIs| [click here]() |
+
+
+
+
+
+
+
+
+# Code 201 - Foundations of Software Development
 
 | days | reads |
 | ---- | ---- |
@@ -22,16 +42,16 @@
 
 
 
-# code 101/102
+# Code 102 - Intro to Software Development
 
 | days | reads |
 | ---- | ---- |
-| day1 read | [click here](./day1read.md) |
-| day2 read | [click here](./day2read.md) |
-| day3 read | [click here](./day3read.md) |
-| HTML BOOK | [click here](./HTMLBOOKsummary.md) |
-| Read:04-ProgrammingwithJavaScript | [click here](./Read:04-ProgrammingwithJavaScript.md) |
-| Read: 05-Operators and Loops| [click here](./Read:05-OperatorsandLoops.md) |
-| Read:06afunctions | [click here](./Read:06afunctions.md) |
-| Read:06b-DesignwebpageswithCSS | [click here](./Read:06b-DesignwebpageswithCSS.md) |
+| day1 read | [click here](code101/day1read.md) |
+| day2 read | [click here](code101/day2read.md) |
+| day3 read | [click here](code101/day3read.md) |
+| HTML BOOK | [click here](code101/HTMLBOOKsummary.md) |
+| Read:04-ProgrammingwithJavaScript | [click here](code101/Read:04-ProgrammingwithJavaScript.md) |
+| Read: 05-Operators and Loops| [click here](code101/Read:05-OperatorsandLoops.md) |
+| Read:06afunctions | [click here](code101/Read:06afunctions.md) |
+| Read:06b-DesignwebpageswithCSS | [click here](code101/Read:06b-DesignwebpageswithCSS.md) |
 

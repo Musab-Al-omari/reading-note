@@ -6,9 +6,9 @@
 
 | days | reads |
 | ---- | ---- |
-| Read: 01 - SMACSS and Responsive Web Design | [click here]() |
-| Read: 02 - jQuery, Events, and The DOM | [click here]() |
-| Read: 03 - Flexbox and Templating | [click here]() |
+| Read: 01 - SMACSS and Responsive Web Design | [click here](code301/class01.md) |
+| Read: 02 - jQuery, Events, and The DOM | [click here](code301/class02.md) |
+| Read: 03 - Flexbox and Templating | [click here](code301/class03.md) |
 | Read: 04 - Responsive Web Design and Regular Expressions | [click here](code301/class04.md) |
 | Read: 05 - Heroku Deployment | [click here](code301/class05.md) |
 | Read: 06 - Node, Express, and APIs| [click here]() |

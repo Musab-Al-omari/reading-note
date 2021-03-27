@@ -11,7 +11,7 @@
 | Read: 03 - Flexbox and Templating | [click here](code301/class03.md) |
 | Read: 04 - Responsive Web Design and Regular Expressions | [click here](code301/class04.md) |
 | Read: 05 - Heroku Deployment | [click here](code301/class05.md) |
-| Read: 06 - Node, Express, and APIs| [click here]() |
+| Read: 06 - Node, Express, and APIs| [click here](code301/class05.md) |
 
 
 

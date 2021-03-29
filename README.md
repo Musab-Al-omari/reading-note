@@ -13,7 +13,7 @@
 | Read: 05 - Heroku Deployment | [click here](code301/class05.md) |
 | Read: 06 - Node, Express, and APIs| [click here](code301/class06.md) |
 | Read: 07 - APIs continued| [click here](code301/class07.md) |
-
+| Read: 08 - Read: 08 - SQL| [click here](code301/class08.md) |
 
 
 

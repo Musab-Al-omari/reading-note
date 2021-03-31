@@ -15,6 +15,7 @@
 | Read: 07 - APIs continued| [click here](code301/class07.md) |
 | Read: 08 - Read: 08 - SQL| [click here](code301/class08.md) |
 | Read: 09 - Refactoring| [click here](code301/class09.md) |
+| Read: 10 - The Call Stack and Debugging| [click here](code301/class010.md) |
 
 
 

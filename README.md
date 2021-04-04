@@ -17,6 +17,7 @@
 | Read: 09 - Refactoring| [click here](code301/class09.md) |
 | Read: 10 - The Call Stack and Debugging| [click here](code301/class010.md) |
 | Read: 11 - EJS| [click here](code301/class011.md) |
+| Read: 12 - Components| [click here](code301/class012.md) |
 
 
 

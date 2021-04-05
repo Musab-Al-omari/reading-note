@@ -18,6 +18,7 @@
 | Read: 10 - The Call Stack and Debugging| [click here](code301/class010.md) |
 | Read: 11 - EJS| [click here](code301/class011.md) |
 | Read: 12 - Components| [click here](code301/class012.md) |
+| Read: 13 - Update/Delete| [click here](code301/class013.md) |
 
 
 

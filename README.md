@@ -15,11 +15,12 @@
 | Read: 07 - APIs continued| [click here](code301/class07.md) |
 | Read: 08 - Read: 08 - SQL| [click here](code301/class08.md) |
 | Read: 09 - Refactoring| [click here](code301/class09.md) |
-| Read: 10 - The Call Stack and Debugging| [click here](code301/class010.md) |
-| Read: 11 - EJS| [click here](code301/class011.md) |
-| Read: 12 - Components | [click here](code301/class012.md) |
-| Read: 13 - Update/Delete | [click here](code301/class013.md) |
-| Read: 14a - DB Normalization | [click here](code301/class014.md) |
+| Read: 10 - The Call Stack and Debugging| [click here](code301/class10.md) |
+| Read: 11 - EJS| [click here](code301/class11.md) |
+| Read: 12 - Components | [click here](code301/class12.md) |
+| Read: 13 - Update/Delete | [click here](code301/class13.md) |
+| Read: 14a - DB Normalization | [click here](code301/class14.md) |
+| Read: 14a - DB Normalization | [click here](code301/class14.md) |
 
 
 

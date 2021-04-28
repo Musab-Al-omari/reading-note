@@ -1,6 +1,8 @@
 # Reading Notes
-
-
+# Code 401 - Advanced Software Development
+| days | reads |
+| ---- | ---- |
+| Read: Class 01 | [click here](code401/class01.md) |
 
 # Code 301 - Intermediate Software Development
 

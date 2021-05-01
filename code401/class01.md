@@ -36,7 +36,7 @@ callback(acc,value,index)
 
 ### third question
 #### Provide code snippets showing how to use superagent() to fetch data from a URL and log the result
-![Alt text](./image/immmm.jpg)
+![Alt text](../image/immmm.jpg)
 
 
 

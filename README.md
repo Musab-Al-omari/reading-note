@@ -6,6 +6,7 @@
 | Read: PreWork | [click here](code401/pre.md) |
 | Read: Class 01 | [click here](code401/class01.md) |
 | Read: Class 02 | [click here](code401/class02.md) |
+| Read: Class 03 | [click here](code401/class03.md) |
 
 # Code 301 - Intermediate Software Development
 

@@ -9,6 +9,7 @@
 | Read: Class 03 | [click here](code401/class03.md) |
 | Read: Class 04 | [click here](code401/class04.md) |
 | Read: Class 05 | [click here](code401/class05.md) |
+| Read: Class 06 | [click here](code401/class06.md) |
 
 # Code 301 - Intermediate Software Development
 

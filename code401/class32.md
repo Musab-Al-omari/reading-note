@@ -1,4 +1,4 @@
-# Read 31: Custom Hooks
+# Read 32: Custom Hooks
 ## Research:
 1. What does a component’s lifecycle refer to?
    - >  Components are created (mounted on the DOM), grow by updating, and then die (unmount on DOM). This is referred to as a component lifecycle.
